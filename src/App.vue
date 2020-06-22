@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Netlify create websize2"/>
+    <HelloWorld msg="Welcome to Netlify create websize65"/>
   </div>
 </template>
 
